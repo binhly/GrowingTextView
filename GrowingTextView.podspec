@@ -27,7 +27,7 @@ This cocoapods provide a subclass of UITextView which support auto growing, plac
   s.author           = { "Kenneth Tsang" => "kenneth.tsang@me.com" }
   s.source           = { :git => "https://github.com/KennethTsang/GrowingTextView.git", :tag => s.version.to_s }
 
-  s.platform     = :ios, '8.0'
+  s.platform     = :ios, '15.6'
   s.requires_arc = true
 
   s.source_files = 'Sources/GrowingTextView/*'
